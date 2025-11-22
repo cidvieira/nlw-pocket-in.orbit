@@ -5,6 +5,8 @@
   &#xa0; | &#xa0; 
   <a href="#web">Web</a>
 </p>
+
+🔗 **[Acesse o Deploy Online aqui](https://cidvieira.github.io/nlw-pocket-in.orbit/)**
  
 
 ## 💡 Sobre o Projeto
